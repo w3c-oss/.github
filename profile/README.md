@@ -1,6 +1,6 @@
 # W3C Open Source Program Repositories
 
-W3C operates this GitHub organization to host open source projects that are part of the [W3C Open Source Program](open-source-program/).
+W3C operates this GitHub organization to host open source projects that are part of the [W3C Open Source Program](https://github.com/w3c-oss/open-source-program).
 
 # Backups
 
